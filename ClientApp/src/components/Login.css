@@ -1,0 +1,15 @@
+﻿body {
+
+    background-color:deepskyblue;
+}
+.wrapper {
+    width: 400px;
+    height: 500px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+}
+
+.wrapper .login-body{
+    background-color: #fff;
+}
